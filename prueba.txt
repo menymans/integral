@@ -302,3 +302,5 @@ and then push using the remote name
 
 
 C:\Users\Latitude\Documents\INGENIERIA\tercer cuatri\Maestro Fadul\practica git>
+
+conflicto master
