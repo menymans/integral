@@ -305,3 +305,5 @@ C:\Users\Latitude\Documents\INGENIERIA\tercer cuatri\Maestro Fadul\practica git>
 
 conflicto master
 
+practica 1
+
